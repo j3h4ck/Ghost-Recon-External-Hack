@@ -11,8 +11,8 @@ Welcome to my Ghost Recon External Hack project! This is a simple C++  hack I cr
 To use this hack, follow these steps:
 1. Clone the repository:
 ```
-git clone https://github.com/j3h4ck/Ghost-Recon-External-Hack.git
-cd Ghost-Recon-External-Hack
+git clone https://github.com/j3h4ck/GhostReconExternalHack.git
+cd GhostReconExternalHack
 ```
 2. Compile the source code (if applicable):
 
